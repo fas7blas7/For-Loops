@@ -1,0 +1,14 @@
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\9-FOR-LOOP\FOR-LOOPS\3-SumNumbers\bin\Debug\net8.0\3-SumNumbers.exe
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\9-FOR-LOOP\FOR-LOOPS\3-SumNumbers\bin\Debug\net8.0\3-SumNumbers.deps.json
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\9-FOR-LOOP\FOR-LOOPS\3-SumNumbers\bin\Debug\net8.0\3-SumNumbers.runtimeconfig.json
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\9-FOR-LOOP\FOR-LOOPS\3-SumNumbers\bin\Debug\net8.0\3-SumNumbers.dll
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\9-FOR-LOOP\FOR-LOOPS\3-SumNumbers\bin\Debug\net8.0\3-SumNumbers.pdb
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\9-FOR-LOOP\FOR-LOOPS\3-SumNumbers\obj\Debug\net8.0\3-SumNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\9-FOR-LOOP\FOR-LOOPS\3-SumNumbers\obj\Debug\net8.0\3-SumNumbers.AssemblyInfoInputs.cache
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\9-FOR-LOOP\FOR-LOOPS\3-SumNumbers\obj\Debug\net8.0\3-SumNumbers.AssemblyInfo.cs
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\9-FOR-LOOP\FOR-LOOPS\3-SumNumbers\obj\Debug\net8.0\3-SumNumbers.csproj.CoreCompileInputs.cache
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\9-FOR-LOOP\FOR-LOOPS\3-SumNumbers\obj\Debug\net8.0\3-SumNumbers.dll
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\9-FOR-LOOP\FOR-LOOPS\3-SumNumbers\obj\Debug\net8.0\refint\3-SumNumbers.dll
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\9-FOR-LOOP\FOR-LOOPS\3-SumNumbers\obj\Debug\net8.0\3-SumNumbers.pdb
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\9-FOR-LOOP\FOR-LOOPS\3-SumNumbers\obj\Debug\net8.0\3-SumNumbers.genruntimeconfig.cache
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\9-FOR-LOOP\FOR-LOOPS\3-SumNumbers\obj\Debug\net8.0\ref\3-SumNumbers.dll
