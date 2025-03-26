@@ -1,0 +1,14 @@
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\9-FOR-LOOP\FOR-LOOPS\1-NumbersInRange\bin\Debug\net8.0\1-NumbersInRange.exe
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\9-FOR-LOOP\FOR-LOOPS\1-NumbersInRange\bin\Debug\net8.0\1-NumbersInRange.deps.json
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\9-FOR-LOOP\FOR-LOOPS\1-NumbersInRange\bin\Debug\net8.0\1-NumbersInRange.runtimeconfig.json
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\9-FOR-LOOP\FOR-LOOPS\1-NumbersInRange\bin\Debug\net8.0\1-NumbersInRange.dll
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\9-FOR-LOOP\FOR-LOOPS\1-NumbersInRange\bin\Debug\net8.0\1-NumbersInRange.pdb
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\9-FOR-LOOP\FOR-LOOPS\1-NumbersInRange\obj\Debug\net8.0\1-NumbersInRange.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\9-FOR-LOOP\FOR-LOOPS\1-NumbersInRange\obj\Debug\net8.0\1-NumbersInRange.AssemblyInfoInputs.cache
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\9-FOR-LOOP\FOR-LOOPS\1-NumbersInRange\obj\Debug\net8.0\1-NumbersInRange.AssemblyInfo.cs
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\9-FOR-LOOP\FOR-LOOPS\1-NumbersInRange\obj\Debug\net8.0\1-NumbersInRange.csproj.CoreCompileInputs.cache
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\9-FOR-LOOP\FOR-LOOPS\1-NumbersInRange\obj\Debug\net8.0\1-NumbersInRange.dll
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\9-FOR-LOOP\FOR-LOOPS\1-NumbersInRange\obj\Debug\net8.0\refint\1-NumbersInRange.dll
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\9-FOR-LOOP\FOR-LOOPS\1-NumbersInRange\obj\Debug\net8.0\1-NumbersInRange.pdb
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\9-FOR-LOOP\FOR-LOOPS\1-NumbersInRange\obj\Debug\net8.0\1-NumbersInRange.genruntimeconfig.cache
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\9-FOR-LOOP\FOR-LOOPS\1-NumbersInRange\obj\Debug\net8.0\ref\1-NumbersInRange.dll

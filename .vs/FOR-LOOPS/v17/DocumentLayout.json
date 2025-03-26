@@ -1,0 +1,158 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\skyli\\Desktop\\Programming Fundamentals and Unit Testing - January 2025\\9-FOR-LOOP\\FOR-LOOPS\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C1B59CB1-F30F-4F40-8B19-81EE0D25F244}|7-LatinLetters\\7-LatinLetters.csproj|c:\\users\\skyli\\desktop\\programming fundamentals and unit testing - january 2025\\9-for-loop\\for-loops\\7-latinletters\\latinletters.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1B59CB1-F30F-4F40-8B19-81EE0D25F244}|7-LatinLetters\\7-LatinLetters.csproj|solutionrelative:7-latinletters\\latinletters.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88D24D27-1E85-4EF0-A9AF-C4ED7D4AEDC4}|6-Exam-Countdown\\6-Exam-Countdown.csproj|c:\\users\\skyli\\desktop\\programming fundamentals and unit testing - january 2025\\9-for-loop\\for-loops\\6-exam-countdown\\exam-countdown.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88D24D27-1E85-4EF0-A9AF-C4ED7D4AEDC4}|6-Exam-Countdown\\6-Exam-Countdown.csproj|solutionrelative:6-exam-countdown\\exam-countdown.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32F17C58-2C7F-425B-8495-F566A9984C1A}|4-NumbersEndingIn7\\4-NumbersEndingIn7.csproj|c:\\users\\skyli\\desktop\\programming fundamentals and unit testing - january 2025\\9-for-loop\\for-loops\\4-numbersendingin7\\numbersendingin7.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32F17C58-2C7F-425B-8495-F566A9984C1A}|4-NumbersEndingIn7\\4-NumbersEndingIn7.csproj|solutionrelative:4-numbersendingin7\\numbersendingin7.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AAE6168-3649-4FA1-8C7A-C1BA4B326C77}|5-Numbers-From-1-To-N-Over-3\\5-Numbers-From-1-To-N-Over-3.csproj|c:\\users\\skyli\\desktop\\programming fundamentals and unit testing - january 2025\\9-for-loop\\for-loops\\5-numbers-from-1-to-n-over-3\\numbers-from-1-to-n-over-3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8AAE6168-3649-4FA1-8C7A-C1BA4B326C77}|5-Numbers-From-1-To-N-Over-3\\5-Numbers-From-1-To-N-Over-3.csproj|solutionrelative:5-numbers-from-1-to-n-over-3\\numbers-from-1-to-n-over-3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01AE73E2-486B-47FB-AF83-4679C482F440}|3-SumNumbers\\3-SumNumbers.csproj|c:\\users\\skyli\\desktop\\programming fundamentals and unit testing - january 2025\\9-for-loop\\for-loops\\3-sumnumbers\\sumnumbers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01AE73E2-486B-47FB-AF83-4679C482F440}|3-SumNumbers\\3-SumNumbers.csproj|solutionrelative:3-sumnumbers\\sumnumbers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE6B44C6-E795-45FA-87CA-141B7072CC28}|2-FirstXNumbersSum\\2-FirstXNumbersSum.csproj|c:\\users\\skyli\\desktop\\programming fundamentals and unit testing - january 2025\\9-for-loop\\for-loops\\2-firstxnumberssum\\firstxnumberssum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE6B44C6-E795-45FA-87CA-141B7072CC28}|2-FirstXNumbersSum\\2-FirstXNumbersSum.csproj|solutionrelative:2-firstxnumberssum\\firstxnumberssum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0174dea2-fdbe-4ef1-8f99-c0beae78880f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LatinLetters.cs",
+              "DocumentMoniker": "C:\\Users\\skyli\\Desktop\\Programming Fundamentals and Unit Testing - January 2025\\9-FOR-LOOP\\FOR-LOOPS\\7-LatinLetters\\LatinLetters.cs",
+              "RelativeDocumentMoniker": "7-LatinLetters\\LatinLetters.cs",
+              "ToolTip": "C:\\Users\\skyli\\Desktop\\Programming Fundamentals and Unit Testing - January 2025\\9-FOR-LOOP\\FOR-LOOPS\\7-LatinLetters\\LatinLetters.cs",
+              "RelativeToolTip": "7-LatinLetters\\LatinLetters.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-28T13:37:50.268Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Exam-Countdown.cs",
+              "DocumentMoniker": "C:\\Users\\skyli\\Desktop\\Programming Fundamentals and Unit Testing - January 2025\\9-FOR-LOOP\\FOR-LOOPS\\6-Exam-Countdown\\Exam-Countdown.cs",
+              "RelativeDocumentMoniker": "6-Exam-Countdown\\Exam-Countdown.cs",
+              "ToolTip": "C:\\Users\\skyli\\Desktop\\Programming Fundamentals and Unit Testing - January 2025\\9-FOR-LOOP\\FOR-LOOPS\\6-Exam-Countdown\\Exam-Countdown.cs",
+              "RelativeToolTip": "6-Exam-Countdown\\Exam-Countdown.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-28T13:18:00.141Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Numbers-From-1-To-N-Over-3.cs",
+              "DocumentMoniker": "C:\\Users\\skyli\\Desktop\\Programming Fundamentals and Unit Testing - January 2025\\9-FOR-LOOP\\FOR-LOOPS\\5-Numbers-From-1-To-N-Over-3\\Numbers-From-1-To-N-Over-3.cs",
+              "RelativeDocumentMoniker": "5-Numbers-From-1-To-N-Over-3\\Numbers-From-1-To-N-Over-3.cs",
+              "ToolTip": "C:\\Users\\skyli\\Desktop\\Programming Fundamentals and Unit Testing - January 2025\\9-FOR-LOOP\\FOR-LOOPS\\5-Numbers-From-1-To-N-Over-3\\Numbers-From-1-To-N-Over-3.cs",
+              "RelativeToolTip": "5-Numbers-From-1-To-N-Over-3\\Numbers-From-1-To-N-Over-3.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-28T13:15:38.694Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "NumbersEndingIn7.cs",
+              "DocumentMoniker": "C:\\Users\\skyli\\Desktop\\Programming Fundamentals and Unit Testing - January 2025\\9-FOR-LOOP\\FOR-LOOPS\\4-NumbersEndingIn7\\NumbersEndingIn7.cs",
+              "RelativeDocumentMoniker": "4-NumbersEndingIn7\\NumbersEndingIn7.cs",
+              "ToolTip": "C:\\Users\\skyli\\Desktop\\Programming Fundamentals and Unit Testing - January 2025\\9-FOR-LOOP\\FOR-LOOPS\\4-NumbersEndingIn7\\NumbersEndingIn7.cs",
+              "RelativeToolTip": "4-NumbersEndingIn7\\NumbersEndingIn7.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-28T13:12:33.758Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SumNumbers.cs",
+              "DocumentMoniker": "C:\\Users\\skyli\\Desktop\\Programming Fundamentals and Unit Testing - January 2025\\9-FOR-LOOP\\FOR-LOOPS\\3-SumNumbers\\SumNumbers.cs",
+              "RelativeDocumentMoniker": "3-SumNumbers\\SumNumbers.cs",
+              "ToolTip": "C:\\Users\\skyli\\Desktop\\Programming Fundamentals and Unit Testing - January 2025\\9-FOR-LOOP\\FOR-LOOPS\\3-SumNumbers\\SumNumbers.cs",
+              "RelativeToolTip": "3-SumNumbers\\SumNumbers.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-28T12:58:57.211Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FirstXNumbersSum.cs",
+              "DocumentMoniker": "C:\\Users\\skyli\\Desktop\\Programming Fundamentals and Unit Testing - January 2025\\9-FOR-LOOP\\FOR-LOOPS\\2-FirstXNumbersSum\\FirstXNumbersSum.cs",
+              "RelativeDocumentMoniker": "2-FirstXNumbersSum\\FirstXNumbersSum.cs",
+              "ToolTip": "C:\\Users\\skyli\\Desktop\\Programming Fundamentals and Unit Testing - January 2025\\9-FOR-LOOP\\FOR-LOOPS\\2-FirstXNumbersSum\\FirstXNumbersSum.cs",
+              "RelativeToolTip": "2-FirstXNumbersSum\\FirstXNumbersSum.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAwBoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-28T12:49:44.365Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 144,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 279,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
