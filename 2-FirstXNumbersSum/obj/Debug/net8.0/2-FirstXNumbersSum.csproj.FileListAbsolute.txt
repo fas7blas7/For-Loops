@@ -1,0 +1,14 @@
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\9-FOR-LOOP\FOR-LOOPS\2-FirstXNumbersSum\bin\Debug\net8.0\2-FirstXNumbersSum.exe
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\9-FOR-LOOP\FOR-LOOPS\2-FirstXNumbersSum\bin\Debug\net8.0\2-FirstXNumbersSum.deps.json
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\9-FOR-LOOP\FOR-LOOPS\2-FirstXNumbersSum\bin\Debug\net8.0\2-FirstXNumbersSum.runtimeconfig.json
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\9-FOR-LOOP\FOR-LOOPS\2-FirstXNumbersSum\bin\Debug\net8.0\2-FirstXNumbersSum.dll
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\9-FOR-LOOP\FOR-LOOPS\2-FirstXNumbersSum\bin\Debug\net8.0\2-FirstXNumbersSum.pdb
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\9-FOR-LOOP\FOR-LOOPS\2-FirstXNumbersSum\obj\Debug\net8.0\2-FirstXNumbersSum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\9-FOR-LOOP\FOR-LOOPS\2-FirstXNumbersSum\obj\Debug\net8.0\2-FirstXNumbersSum.AssemblyInfoInputs.cache
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\9-FOR-LOOP\FOR-LOOPS\2-FirstXNumbersSum\obj\Debug\net8.0\2-FirstXNumbersSum.AssemblyInfo.cs
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\9-FOR-LOOP\FOR-LOOPS\2-FirstXNumbersSum\obj\Debug\net8.0\2-FirstXNumbersSum.csproj.CoreCompileInputs.cache
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\9-FOR-LOOP\FOR-LOOPS\2-FirstXNumbersSum\obj\Debug\net8.0\2-FirstXNumbersSum.dll
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\9-FOR-LOOP\FOR-LOOPS\2-FirstXNumbersSum\obj\Debug\net8.0\refint\2-FirstXNumbersSum.dll
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\9-FOR-LOOP\FOR-LOOPS\2-FirstXNumbersSum\obj\Debug\net8.0\2-FirstXNumbersSum.pdb
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\9-FOR-LOOP\FOR-LOOPS\2-FirstXNumbersSum\obj\Debug\net8.0\2-FirstXNumbersSum.genruntimeconfig.cache
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\9-FOR-LOOP\FOR-LOOPS\2-FirstXNumbersSum\obj\Debug\net8.0\ref\2-FirstXNumbersSum.dll
