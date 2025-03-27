@@ -1,0 +1,14 @@
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\9-FOR-LOOP\FOR-LOOPS\6-Exam-Countdown\bin\Debug\net8.0\6-Exam-Countdown.exe
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\9-FOR-LOOP\FOR-LOOPS\6-Exam-Countdown\bin\Debug\net8.0\6-Exam-Countdown.deps.json
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\9-FOR-LOOP\FOR-LOOPS\6-Exam-Countdown\bin\Debug\net8.0\6-Exam-Countdown.runtimeconfig.json
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\9-FOR-LOOP\FOR-LOOPS\6-Exam-Countdown\bin\Debug\net8.0\6-Exam-Countdown.dll
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\9-FOR-LOOP\FOR-LOOPS\6-Exam-Countdown\bin\Debug\net8.0\6-Exam-Countdown.pdb
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\9-FOR-LOOP\FOR-LOOPS\6-Exam-Countdown\obj\Debug\net8.0\6-Exam-Countdown.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\9-FOR-LOOP\FOR-LOOPS\6-Exam-Countdown\obj\Debug\net8.0\6-Exam-Countdown.AssemblyInfoInputs.cache
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\9-FOR-LOOP\FOR-LOOPS\6-Exam-Countdown\obj\Debug\net8.0\6-Exam-Countdown.AssemblyInfo.cs
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\9-FOR-LOOP\FOR-LOOPS\6-Exam-Countdown\obj\Debug\net8.0\6-Exam-Countdown.csproj.CoreCompileInputs.cache
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\9-FOR-LOOP\FOR-LOOPS\6-Exam-Countdown\obj\Debug\net8.0\6-Exam-Countdown.dll
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\9-FOR-LOOP\FOR-LOOPS\6-Exam-Countdown\obj\Debug\net8.0\refint\6-Exam-Countdown.dll
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\9-FOR-LOOP\FOR-LOOPS\6-Exam-Countdown\obj\Debug\net8.0\6-Exam-Countdown.pdb
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\9-FOR-LOOP\FOR-LOOPS\6-Exam-Countdown\obj\Debug\net8.0\6-Exam-Countdown.genruntimeconfig.cache
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\9-FOR-LOOP\FOR-LOOPS\6-Exam-Countdown\obj\Debug\net8.0\ref\6-Exam-Countdown.dll
