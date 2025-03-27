@@ -1,0 +1,14 @@
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\9-FOR-LOOP\FOR-LOOPS\4-NumbersEndingIn7\bin\Debug\net8.0\4-NumbersEndingIn7.exe
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\9-FOR-LOOP\FOR-LOOPS\4-NumbersEndingIn7\bin\Debug\net8.0\4-NumbersEndingIn7.deps.json
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\9-FOR-LOOP\FOR-LOOPS\4-NumbersEndingIn7\bin\Debug\net8.0\4-NumbersEndingIn7.runtimeconfig.json
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\9-FOR-LOOP\FOR-LOOPS\4-NumbersEndingIn7\bin\Debug\net8.0\4-NumbersEndingIn7.dll
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\9-FOR-LOOP\FOR-LOOPS\4-NumbersEndingIn7\bin\Debug\net8.0\4-NumbersEndingIn7.pdb
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\9-FOR-LOOP\FOR-LOOPS\4-NumbersEndingIn7\obj\Debug\net8.0\4-NumbersEndingIn7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\9-FOR-LOOP\FOR-LOOPS\4-NumbersEndingIn7\obj\Debug\net8.0\4-NumbersEndingIn7.AssemblyInfoInputs.cache
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\9-FOR-LOOP\FOR-LOOPS\4-NumbersEndingIn7\obj\Debug\net8.0\4-NumbersEndingIn7.AssemblyInfo.cs
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\9-FOR-LOOP\FOR-LOOPS\4-NumbersEndingIn7\obj\Debug\net8.0\4-NumbersEndingIn7.csproj.CoreCompileInputs.cache
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\9-FOR-LOOP\FOR-LOOPS\4-NumbersEndingIn7\obj\Debug\net8.0\4-NumbersEndingIn7.dll
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\9-FOR-LOOP\FOR-LOOPS\4-NumbersEndingIn7\obj\Debug\net8.0\refint\4-NumbersEndingIn7.dll
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\9-FOR-LOOP\FOR-LOOPS\4-NumbersEndingIn7\obj\Debug\net8.0\4-NumbersEndingIn7.pdb
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\9-FOR-LOOP\FOR-LOOPS\4-NumbersEndingIn7\obj\Debug\net8.0\4-NumbersEndingIn7.genruntimeconfig.cache
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\9-FOR-LOOP\FOR-LOOPS\4-NumbersEndingIn7\obj\Debug\net8.0\ref\4-NumbersEndingIn7.dll
