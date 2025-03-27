@@ -1,0 +1,14 @@
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\9-FOR-LOOP\FOR-LOOPS\5-Numbers-From-1-To-N-Over-3\bin\Debug\net8.0\5-Numbers-From-1-To-N-Over-3.exe
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\9-FOR-LOOP\FOR-LOOPS\5-Numbers-From-1-To-N-Over-3\bin\Debug\net8.0\5-Numbers-From-1-To-N-Over-3.deps.json
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\9-FOR-LOOP\FOR-LOOPS\5-Numbers-From-1-To-N-Over-3\bin\Debug\net8.0\5-Numbers-From-1-To-N-Over-3.runtimeconfig.json
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\9-FOR-LOOP\FOR-LOOPS\5-Numbers-From-1-To-N-Over-3\bin\Debug\net8.0\5-Numbers-From-1-To-N-Over-3.dll
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\9-FOR-LOOP\FOR-LOOPS\5-Numbers-From-1-To-N-Over-3\bin\Debug\net8.0\5-Numbers-From-1-To-N-Over-3.pdb
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\9-FOR-LOOP\FOR-LOOPS\5-Numbers-From-1-To-N-Over-3\obj\Debug\net8.0\5-Numbers-From-1-To-N-Over-3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\9-FOR-LOOP\FOR-LOOPS\5-Numbers-From-1-To-N-Over-3\obj\Debug\net8.0\5-Numbers-From-1-To-N-Over-3.AssemblyInfoInputs.cache
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\9-FOR-LOOP\FOR-LOOPS\5-Numbers-From-1-To-N-Over-3\obj\Debug\net8.0\5-Numbers-From-1-To-N-Over-3.AssemblyInfo.cs
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\9-FOR-LOOP\FOR-LOOPS\5-Numbers-From-1-To-N-Over-3\obj\Debug\net8.0\5-Numbers-From-1-To-N-Over-3.csproj.CoreCompileInputs.cache
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\9-FOR-LOOP\FOR-LOOPS\5-Numbers-From-1-To-N-Over-3\obj\Debug\net8.0\5-Numbers-From-1-To-N-Over-3.dll
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\9-FOR-LOOP\FOR-LOOPS\5-Numbers-From-1-To-N-Over-3\obj\Debug\net8.0\refint\5-Numbers-From-1-To-N-Over-3.dll
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\9-FOR-LOOP\FOR-LOOPS\5-Numbers-From-1-To-N-Over-3\obj\Debug\net8.0\5-Numbers-From-1-To-N-Over-3.pdb
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\9-FOR-LOOP\FOR-LOOPS\5-Numbers-From-1-To-N-Over-3\obj\Debug\net8.0\5-Numbers-From-1-To-N-Over-3.genruntimeconfig.cache
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\9-FOR-LOOP\FOR-LOOPS\5-Numbers-From-1-To-N-Over-3\obj\Debug\net8.0\ref\5-Numbers-From-1-To-N-Over-3.dll
