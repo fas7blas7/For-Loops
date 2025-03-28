@@ -2,11 +2,11 @@
 
 Welcome to my GitHub repository! Here, you'll find various C# coding tasks with structured numbering and detailed solutions. 💻✨
 
-📜 Introduction
+🐜 Introduction
 
 This repository contains small but essential C# programs that focus on fundamental concepts like loops, conditionals, and input/output handling. Each task is numbered and documented for easy reference.
 
-📂 Folder Structure
+📎 Folder Structure
 
 /MyCodingTasks
 │—— /Task1_NumbersInRange
@@ -21,6 +21,8 @@ This repository contains small but essential C# programs that focus on fundament
 │    ├—— NumbersFrom1ToNOver3.cs
 │—— /Task6_Exam_Countdown
 │    ├—— ExamCountdown.cs
+│—— /Task7_LatinLetters
+│    ├—— LatinLetters.cs
 │—— README.md
 
 Each task is stored in a separate folder named according to its purpose. The .cs files contain the C# source code for each task.
@@ -63,7 +65,7 @@ Namespace: _2_FirstXNumbersSum
 📌 Description:
 Calculates the sum of the first n natural numbers and prints it in a formatted way (e.g., 1+2+3=6).
 
-3️⃣ Sum of N Numbers 🧮
+3️⃣ Sum of N Numbers 🧙‍♂️
 
 Namespace: _3_SumNumbers
 📌 Description:
@@ -149,14 +151,40 @@ namespace _6_Exam_Countdown
 }
 ```
 
+7️⃣ Latin Letters 🔤
+
+Namespace: _7_LatinLetters
+📌 Description:
+Prints all Latin letters in a given range.
+
+📝 Code:
+```csharp
+namespace _7_LatinLetters
+{
+    internal class LatinLetters
+    {
+        static void Main(string[] args)
+        {
+            char start = char.Parse(Console.ReadLine());
+            char end = char.Parse(Console.ReadLine());
+
+            for(char i = start; i <= end; i++)
+            {
+                Console.Write(i + " ");
+            }
+        }
+    }
+}
+```
+
 🎯 Commit Progress Tracker
 
 🚀 Goal: 500 commits in 2025
-📅 Current Progress: 331 commits
+📅 Current Progress: 334 commits
 
 📊 Progress Bar:
 
-██████████████████▒▒▒▒▒▒▒ 65.6% (328/500)
+██████████████████▒▒▒▒▒▒▒ 66.8% (334/500)
 
 📌 Milestones:
 ✅ 100 commits
@@ -164,3 +192,4 @@ namespace _6_Exam_Countdown
 ✅ 300 commits
 🔲 400 commits
 🔲 500 commits (🎉)
+
