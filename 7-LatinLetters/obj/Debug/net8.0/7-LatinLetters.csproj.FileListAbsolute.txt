@@ -1,0 +1,14 @@
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\9-FOR-LOOP\FOR-LOOPS\7-LatinLetters\bin\Debug\net8.0\7-LatinLetters.exe
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\9-FOR-LOOP\FOR-LOOPS\7-LatinLetters\bin\Debug\net8.0\7-LatinLetters.deps.json
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\9-FOR-LOOP\FOR-LOOPS\7-LatinLetters\bin\Debug\net8.0\7-LatinLetters.runtimeconfig.json
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\9-FOR-LOOP\FOR-LOOPS\7-LatinLetters\bin\Debug\net8.0\7-LatinLetters.dll
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\9-FOR-LOOP\FOR-LOOPS\7-LatinLetters\bin\Debug\net8.0\7-LatinLetters.pdb
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\9-FOR-LOOP\FOR-LOOPS\7-LatinLetters\obj\Debug\net8.0\7-LatinLetters.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\9-FOR-LOOP\FOR-LOOPS\7-LatinLetters\obj\Debug\net8.0\7-LatinLetters.AssemblyInfoInputs.cache
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\9-FOR-LOOP\FOR-LOOPS\7-LatinLetters\obj\Debug\net8.0\7-LatinLetters.AssemblyInfo.cs
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\9-FOR-LOOP\FOR-LOOPS\7-LatinLetters\obj\Debug\net8.0\7-LatinLetters.csproj.CoreCompileInputs.cache
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\9-FOR-LOOP\FOR-LOOPS\7-LatinLetters\obj\Debug\net8.0\7-LatinLetters.dll
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\9-FOR-LOOP\FOR-LOOPS\7-LatinLetters\obj\Debug\net8.0\refint\7-LatinLetters.dll
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\9-FOR-LOOP\FOR-LOOPS\7-LatinLetters\obj\Debug\net8.0\7-LatinLetters.pdb
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\9-FOR-LOOP\FOR-LOOPS\7-LatinLetters\obj\Debug\net8.0\7-LatinLetters.genruntimeconfig.cache
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\9-FOR-LOOP\FOR-LOOPS\7-LatinLetters\obj\Debug\net8.0\ref\7-LatinLetters.dll
